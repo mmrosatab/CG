@@ -1,2 +1,2 @@
 # CG
-Repositório de exercícios da disciplina Computação Gráfica 
+Repositório de trabalhos da disciplina Computação Gráfica 
